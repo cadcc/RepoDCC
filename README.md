@@ -16,7 +16,7 @@ Hemos elegido esta plataforme por que es muy útil para todas las personas que s
 ### Mucho texto
 
 Este es un repositorio creado por el CaDCC para todes les estudiantes que estén ingresando a la especialidad (o para quienes no estén tan segures de hacerlo) y sientan que hay contenidos que les faltó desarrollar en el plan común.
-En este respoitorio podrán encontrar:
+En este repositorio podrán encontrar:
 - Cápsulas creadas por el centro de estudiantes
 - Código desarrollado por nosotres que respondan a dudas planteadas en cápsulas
 - Problemas afines a ciertos contenidos imprescindibles (algunos con soluciones)
