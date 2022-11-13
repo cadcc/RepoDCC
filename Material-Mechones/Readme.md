@@ -10,6 +10,8 @@ Dentro de los videos de este repositorio encontrarás algunos propios, estos los
 
 Es importante recibir una retroalimentación para saber si este material te sirvió o necesita adquirir más contenido. Por esto te dejamos esta breve [encuesta](https://forms.gle/V2fxLSfgyhnSGcBv5).
 
+Si sientes que hay una materia que te está costando mucho, y conoces a gente que también tenga complicaciones con esta, no dudes en enviar un correo a docencia@cadcc.cl, ¡Haremos todo lo posible para guiarte!.
 
+Atentamente,
 
 —CaDCC
