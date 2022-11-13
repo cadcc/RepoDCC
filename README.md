@@ -11,6 +11,8 @@ El presente repositorio está creado en la plataforma creada GitHub, la cuál pu
 - [Curso](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU) de Git en Español, bastante completo y recomendado
 - [Introducción](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) a Git y GitHub en Inglés (te recomendamos ver que otros videos tienen este canal, tienen mucho sobre lenguajes y módulos!)
 
+Hemos elegido esta plataforme por que es muy útil para todas las personas que se desempeñen en el área de la computación, tanto en investigación como en desarrollo empresarial. ¡Además necesitarás usarla para algunos de tus cursos obligatorios! (CC3002).
+
 ### Mucho texto
 
 Este es un repositorio creado por el CaDCC para todes les estudiantes que estén ingresando a la especialidad (o para quienes no estén tan segures de hacerlo) y sientan que hay contenidos que les faltó desarrollar en el plan común.
